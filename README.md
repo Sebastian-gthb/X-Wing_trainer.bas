@@ -1,10 +1,12 @@
 # X-Wing_trainer.bas
 
-My QBasic programm from 12th Oktober 1994. It's to modify the pilot file from the computer game X-Wing. It supports also supports the mission packs "Imperial Pursuit" and "B-Wing".
-You can edt whitch missions you have completed or which awards you have won.
-In the past some cheating tools are called "trainer". So I used this description for the programm.
+My QBasic programm from 12th Oktober 1994. It's to modify the pilot file from the computer game X-Wing. It also supports the mission packs "Imperial Pursuit" and "B-Wing".
+You can edit whitch missions you have completed or which awards you have won.
+In the past some cheating tools are called "trainer". So I used this for naming the programm.
 
 It runs under MS-DOS.
+
+At the start you must enter an existing name of a pilot file. If you enter a non existing name it will create a new one. I'm not sure if a newly created file will work with the game.
 
 Screenshots:
 
