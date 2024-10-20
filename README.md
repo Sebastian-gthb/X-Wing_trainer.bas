@@ -6,7 +6,7 @@ In the past some cheating tools are called "trainer". So I used this for naming 
 
 It runs under MS-DOS.
 
-At the start you must enter an existing name of a pilot file. If you enter a non existing name it will create a new one. I'm not sure if a newly created file will work with the game.
+At the start you must enter an existing name of a pilot file. The pilot file must exist in the "current" directory. If you enter a non existing name it will create a new one. I'm not sure if a newly created file will work with the game.
 
 Screenshots:
 
